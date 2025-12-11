@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# (Optional) Ignore big datasets if you don’t want to upload them
+# *.csv
+# *.pkl
