@@ -2,6 +2,11 @@
 
 A Streamlit-based machine learning app that predicts whether a movie review is **Positive** or **Negative** using a trained ML model (TF-IDF + Logistic Regression).
 
+## 🖼️ Preview
+
+![App Screenshot] <img width="1842" height="1011" alt="image" src="https://github.com/user-attachments/assets/3002a8f3-292b-48b8-a216-6af672a8ee90" />
+
+
 ## 🚀 Features
 - Clean, modern Streamlit UI
 - Text preprocessing
@@ -18,3 +23,15 @@ A Streamlit-based machine learning app that predicts whether a movie review is *
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+## How to use
+1. Run the app using:  
+   streamlit run app.py  
+
+2. Type or paste a movie review in the text box  
+
+3. Click **Analyze Sentiment**  
+
+4. View the result:  
+   - 🟢 Positive  
+   - 🔴 Negative  
