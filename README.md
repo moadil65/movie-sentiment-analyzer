@@ -4,7 +4,7 @@ A Streamlit-based machine learning app that predicts whether a movie review is *
 
 ## 🖼️ Preview
 
-![App Screenshot] <img width="1842" height="1011" alt="image" src="https://github.com/user-attachments/assets/3002a8f3-292b-48b8-a216-6af672a8ee90" />
+<img width="1842" height="1011" alt="image" src="https://github.com/user-attachments/assets/3002a8f3-292b-48b8-a216-6af672a8ee90" />
 
 
 ## 🚀 Features
